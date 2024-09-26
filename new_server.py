@@ -80,11 +80,20 @@ import streamlit as st
 from groq import Groq
 import uuid
 
+# Layout for the profile photo and title
+col1, col2 = st.columns([1, 5])
+
+# Profile photo (assuming profile_photo.png is in the same folder)
+with col1:
+    st.image("paul_wan.png", width=70)  # Adjust the width as necessary
+
 # Title
-st.title("Ask Paul")
+with col2:
+    st.title("Ask Paul")
+
 context2 = """You are a chatbot representing a person Paul Wan, helping answer queries of the user. anything asked to "you", answer as if you are Paul himself,
 information of paul is given at the end which you can refer to, the user can ask 2 types of questions
-1. any question that the user want to ask
+1. any question that the user want to ask, asnwer those questions as if you are paul himself.
 2. questions for a person named Paul Wan, given below is the linkedin info of Paul Wan answer those questions for paul. 
 Linkedin info of paul:
 "Paul info starts"
@@ -144,7 +153,6 @@ Graduate Trainee
 IBM
 Jan 1990 - Jun 1992 · 2 yrs 6 mos
 Sydney, Australia
-
 
 
 Education
@@ -225,6 +233,7 @@ if prompt := st.chat_input("Ask Paul anything ✍"):
     chat_completion = client.chat.completions.create(
         messages=[{"role": "system", "content": context2}] + current_chat,
         model="llama3-8b-8192",
+        temperature=0.2,
     )
 
     # Extract the assistant's response
