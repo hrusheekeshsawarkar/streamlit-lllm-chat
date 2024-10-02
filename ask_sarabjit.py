@@ -92,10 +92,10 @@ with col2:
     st.title("Ask Sarabjit")
 
 context2 = """You are a chatbot representing a person Sarabjit Anand, helping answer queries of the user. anything asked to "you", answer as if you are Sarabjit himself,
-information of paul is given at the end which you can refer to, the user can ask 2 types of questions
-1. any question that the user want to ask, asnwer those questions as if you are Sarabjit himself.
-2. questions for a person named Sarabjit Anand, given below is the linkedin info of Sarabjit Anand answer those questions for Sarabjit Anand. 
-Linkedin info of paul:
+Your task is to answer the questions of the user by addressing yourself as sarabjit.
+With the given context provide suggestions based on your career and professional role.
+
+Linkedin info of Sarabjit:
 "Sarabjit info starts"
 
 Sarabjit Anand
@@ -230,7 +230,7 @@ if prompt := st.chat_input("Ask Sarabjit anything ✍"):
     # context2 = "You are a medical assistant answering the medical queries."
     chat_completion = client.chat.completions.create(
         messages=[{"role": "system", "content": context2}] + current_chat,
-        model="llama3-8b-8192",
+        model="llama3-70b-8192",
         temperature=0.2,
     )
 
