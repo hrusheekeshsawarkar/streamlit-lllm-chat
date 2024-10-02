@@ -101,9 +101,9 @@ Linkedin info of Sarabjit:
 Sarabjit Anand
 
 
-### **Profile Summary:**
+### Profile Summary:
 About
-I am a Computer Engineering Graduate with over 30 years of experience, mainly in the Technology, ITES/BPO sector, working in the banking environment. My career began at Zenith Computers, followed by roles at Citibank, and I am currently working with Standard Chartered Bank. 
+I am a Computer Engineering Graduate with over 30 years of experience, mainly in the Technology, ITES/BPO sector, working in the banking environment. My career began at Zenith Computers, followed by roles at Citibank, and I am currently working with Standard Chartered Bank in UAE. 
 
 Throughout my career, I have gained expertise in Senior Stakeholder Management, Service Management, Systems Integration, Project Management, Techno-Commercial Negotiations, and Quality Management (Six Sigma, ISO 9002). I have been responsible for the development of critical applications in banking, regulatory engagements, and customer service improvement, both internally and externally.
 
@@ -113,60 +113,60 @@ Additionally, I am involved in community service initiatives such as training th
 
 ---
 
-### **Professional Experience:**
+### Professional Experience:
 
-**Chief Information Officer (CIO)**  
+Chief Information Officer (CIO) 
 Central Bank of The UAE  
-*Sep 2023 – Present* | United Arab Emirates (On-site)  
+Sep 2023 – Present | United Arab Emirates (On-site)  
 
-**Chief Technology and Operations Officer, India & South Asia**  
+Chief Technology and Operations Officer, India & South Asia  
 Standard Chartered Bank  
-*Jan 2023 – Sep 2023* | Mumbai, Maharashtra, India (On-site)  
+Jan 2023 – Sep 2023 | Mumbai, Maharashtra, India (On-site)  
 - Led the “One Bank” Transformation, Technology, and Operations agenda across the country.
 - Facilitated alignment with business and regulatory responsibilities, engaging with country and regional regulators.
   
-**Chief Information Officer (CIO), Singapore & ASA**  
+Chief Information Officer (CIO), Singapore & ASA  
 Standard Chartered Bank  
-*May 2019 – Dec 2022* | Singapore  
+May 2019 – Dec 2022 | Singapore  
 - Developed and executed the Technology & Innovation strategy.
 - Spearheaded digital banking initiatives, automation through RPAs, and cloud solutions.
 - Managed regulatory relations and technology risks, leading a team of tech professionals.
 - Key Achievements: Improved adoption and client satisfaction through digital products, launched a digital bank in Singapore, enabled remote working for over 40,000 staff, and established a risk forum for consistent risk management.
 
-**Head of Information Technology, Singapore & ASEAN & South Asia**  
+Head of Information Technology, Singapore & ASEAN & South Asia  
 Standard Chartered Bank  
-*Apr 2015 – Apr 2019* | Singapore  
+Apr 2015 – Apr 2019 | Singapore  
 - Led the technology strategy in alignment with business goals.
 - Key Achievements: Led innovative initiatives such as MyInfo, APIs, and digital banking products, which increased online revenues and enhanced client satisfaction.
 
-**Head of Country Technology Management, Hong Kong & NEA**  
+Head of Country Technology Management, Hong Kong & NEA  
 Standard Chartered Bank  
-*Feb 2011 – Mar 2015* | Hong Kong  
+Feb 2011 – Mar 2015 | Hong Kong  
 - Oversaw technology services for Hong Kong, China, Japan, and Taiwan.
 - Key responsibilities included 24/7 IT services, regulatory compliance, and vendor management.
 
-**Head of IT, India, South Asia & GSSC**  
+Head of IT, India, South Asia & GSSC  
 Standard Chartered Bank  
-*Apr 2006 – Feb 2011*  
+Apr 2006 – Feb 2011  
 - Managed technology services for India, South Asia, and GSSC, along with continuous service improvement initiatives.
 
-**Head of IT Service Centre (West)**  
+Head of IT Service Centre (West)  
 Standard Chartered Bank  
-*Jan 2002 – Apr 2006*  
+Jan 2002 – Apr 2006  
 - Managed a large team providing 24/7 IT services across 27 countries, serving over 22,000 customers.
 
-**Manager, IT Service & Service Delivery**  
+Manager, IT Service & Service Delivery  
 Standard Chartered Bank  
-*Dec 2000 – Dec 2001*  
+Dec 2000 – Dec 2001  
 - Led a team of IT professionals and managed 24/7 IT services for Standard Chartered Bank.
 
 ---
 
-### **Education:**
+### Education:
 
-**Bachelor of Engineering (BE), Computers**  
+Bachelor of Engineering (BE), Computers  
 Marathwada Institute of Technology, Aurangabad  
-*1985 – 1989*
+1985 – 1989
 
 ---
 
